@@ -1,0 +1,36 @@
+/* Add your custom css in this file 
+
+#quizModal .modal-dialog .modal-dialog .modal-content .modal-body #question-form .question-fieldset{
+    display: none;
+}
+
+#quizModal .modal-dialog #start-section:not(.active){
+    display: none;
+}
+
+#quizModal .modal-dialog #question-section:not(.active){
+    display: none;
+}
+
+#quizModal .modal-dialog #success-section:not(.active){
+    display: none;
+}
+.modal-dialog #failed-section:not(.active){
+    display: none;
+}
+#quizModal .modal-dialog #final-section:not(.active){
+    display: none;
+}
+
+#quizModal .modal-dialog #question-form .question-fieldset.active{
+    display:block;
+}
+
+#quizModal .modal-dialog #question-form .option-container{
+    display:flex;
+    flex-direction: column;
+}
+
+#quizModal .modal-dialog #question-form input[type="submit"]{
+    visibility: hidden;
+}*/
